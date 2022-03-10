@@ -3,6 +3,8 @@ package sparkcore
 import org.apache.spark.SparkContext 
 import org.apache.spark.sql.SparkSession
 
+
+//this is the first lab excercise
 object Lab01 {
   
   def main(args:Array[String])=
