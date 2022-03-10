@@ -5,6 +5,7 @@ import org.apache.spark.sql.SparkSession
 
 
 //this is the first lab excercise
+//create sparkcontext object
 object Lab01 {
   
   def main(args:Array[String])=
